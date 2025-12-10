@@ -1,19 +1,24 @@
 {
     "HomePage": {
         "hero": {
-            "title": "Orchestrating Intelligence",
-            "subtitle": "From autonomous drone swarms to streamlined business workflows. PhD-level engineering for complex systems."
+            "title": "Precision Engineering for Business & Research.",
+            "subtitle": "Building robust solutions that drive tangible results."
         },
         "fork": {
-            "business": {
-                "title": "For Small Businesses",
-                "text": "I want to automate tasks, use AI tools, and save time.",
-                "cta": "Explore Business Automation"
+            "website": {
+                "title": "Website development",
+                "text": "Launch your digital presence with a fast, modern, and search engine-optimized website. The perfect start to streamline your client communication.",
+                "cta": "Build my website"
             },
-            "tech": {
-                "title": "For Tech & Research",
-                "text": "I need UAV technology, swarm algorithms, or EU tender expertise.",
-                "cta": "Explore R&D Consulting"
+            "automation": {
+                "title": "AI & workflow automation",
+                "text": "Cut operational costs and eliminate manual work. Implement tailored AI, custom tools, and low-code solutions to instantly streamline your business.",
+                "cta": "Explore automation"
+            },
+            "rd_consulting": {
+                "title": "R&D consulting",
+                "text": "Accelerate innovation with deep technical expertise in UAVs, swarm intelligence, complex algorithms, and successful EU tender writing.",
+                "cta": "View technical capabilites"
             }
         }
     },
