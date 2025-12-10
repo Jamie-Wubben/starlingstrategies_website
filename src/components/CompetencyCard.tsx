@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 interface CompetencyCardProps {
     title: string;
@@ -11,6 +11,13 @@ interface CompetencyCardProps {
 
 export default function CompetencyCard({ title, skills, colorClass, borderColorClass }: CompetencyCardProps) {
     const [isExpanded, setIsExpanded] = useState(false);
+
+    useEffect(() => {
+        // Open automatically on desktop (md breakpoint is usually 768px)
+        if (window.matchMedia('(min-width: 768px)').matches) {
+            setIsExpanded(true);
+        }
+    }, []);
 
     return (
         <div
@@ -47,9 +54,9 @@ export default function CompetencyCard({ title, skills, colorClass, borderColorC
                 </ul>
             </div>
 
-            {!isExpanded && (
+            {!isExpanded && skills.length > 0 && (
                 <p className="text-sm text-gray-500 mt-2 truncate">
-                    {skills.slice(0, 3).join(', ')}...
+                    {skills[0]}...
                 </p>
             )}
         </div>
