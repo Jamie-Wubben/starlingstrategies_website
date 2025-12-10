@@ -133,8 +133,10 @@
             "email": "Email",
             "interest": "I am interested in...",
             "options": {
-                "automation": "Business Automation",
-                "uavs": "UAVs / R&D"
+                "website": "Website Development",
+                "automation": "AI & Automation",
+                "rd": "Aerial Robotics & R&D",
+                "other": "Other"
             },
             "submit": "Send Message",
             "sending": "Sending...",

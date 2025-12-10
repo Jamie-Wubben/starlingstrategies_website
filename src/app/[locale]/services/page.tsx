@@ -55,7 +55,7 @@ export default async function ServicesPage({
                         </li>
                     </ul>
 
-                    <Link href={`/${locale}/contact`} className="inline-flex items-center justify-center px-6 py-3 border border-[#f97316] text-base font-medium rounded-md text-[#f97316] hover:bg-[#f97316]/10 transition-colors">
+                    <Link href={`/${locale}/contact?interest=website`} className="inline-flex items-center justify-center px-6 py-3 border border-[#f97316] text-base font-medium rounded-md text-[#f97316] hover:bg-[#f97316]/10 transition-colors">
                         {t('website.cta')}
                     </Link>
                 </div>
@@ -100,7 +100,7 @@ export default async function ServicesPage({
                     </ul>
 
                     <div className="space-y-6">
-                        <Link href={`/${locale}/contact`} className="inline-flex items-center justify-center px-6 py-3 border border-primary text-base font-medium rounded-md text-primary hover:bg-primary/10 transition-colors">
+                        <Link href={`/${locale}/contact?interest=automation`} className="inline-flex items-center justify-center px-6 py-3 border border-primary text-base font-medium rounded-md text-primary hover:bg-primary/10 transition-colors">
                             {t('business.cta')}
                         </Link>
                     </div>
@@ -146,7 +146,7 @@ export default async function ServicesPage({
                     </ul>
 
                     <div className="space-y-6">
-                        <Link href={`/${locale}/contact`} className="inline-flex items-center justify-center px-6 py-3 border border-secondary text-base font-medium rounded-md text-secondary hover:bg-secondary/10 transition-colors">
+                        <Link href={`/${locale}/contact?interest=rd`} className="inline-flex items-center justify-center px-6 py-3 border border-secondary text-base font-medium rounded-md text-secondary hover:bg-secondary/10 transition-colors">
                             {t('tech.cta')}
                         </Link>
                     </div>

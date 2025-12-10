@@ -1,66 +1,91 @@
 {
     "HomePage": {
         "hero": {
-            "title": "Orquestando Inteligencia",
-            "subtitle": "Desde enjambres de drones autónomos hasta flujos de trabajo empresariales optimizados. Ingeniería de nivel PhD para sistemas complejos."
+            "title": "Ingeniería de Precisión para Empresas e Investigación.",
+            "subtitle": "Desarrollamos soluciones robustas que generan resultados tangibles."
         },
         "fork": {
-            "business": {
-                "title": "Para Pequeñas Empresas",
-                "text": "Quiero automatizar tareas, usar herramientas de IA y ahorrar tiempo.",
-                "cta": "Explorar Automatización Empresarial"
+            "website": {
+                "title": "Desarrollo web",
+                "text": "Lanza tu presencia digital con una página web rápida, moderna y optimizada para buscadores. El punto de partida perfecto para agilizar la comunicación con tus clientes.",
+                "cta": "Crear mi web"
             },
-            "tech": {
-                "title": "Para Tecnología e Investigación",
-                "text": "Necesito tecnología UAV, algoritmos de enjambre o experiencia en licitaciones de la UE.",
-                "cta": "Explorar Consultoría I+D"
+            "automation": {
+                "title": "IA y automatización",
+                "text": "Reduce costes operativos y elimina el trabajo manual. Implementa soluciones de IA personalizadas, herramientas a medida y sistemas low-code para optimizar tu negocio al instante.",
+                "cta": "Explorar automatización"
+            },
+            "rd_consulting": {
+                "title": "Consultoría I+D",
+                "text": "Acelera la innovación con experiencia técnica avanzada en UAVs, inteligencia de enjambre, algoritmos complejos y redacción exitosa de propuestas europeas.",
+                "cta": "Ver capacidades técnicas"
             }
         }
     },
     "ServicesPage": {
-        "business": {
-            "title": "IA y Automatización Empresarial",
-            "headline": "Inteligencia Práctica para Empresas en Crecimiento.",
-            "intro": "Deje de adivinar con la IA. Construyo soluciones de automatización personalizadas que se integran perfectamente en sus operaciones diarias.",
+        "website": {
+            "title": "Desarrollo Web",
+            "headline": "Tu Escaparate Digital, Optimizado para Convertir Visitas en Ingresos.",
+            "intro": "Tu escaparate digital debe ser tan profesional como tu negocio. Creo webs de alto rendimiento que convierten visitantes en clientes.",
             "list": {
                 "item1": {
-                    "title": "Optimización de Flujos de Trabajo",
-                    "desc": "Análisis de cuellos de botella en la comunicación y automatización de tareas administrativas."
+                    "title": "Diseño Personalizado",
+                    "desc": "Una web única y a medida, construida con precisión según tu marca, audiencia y objetivos empresariales."
                 },
                 "item2": {
-                    "title": "Soluciones GenAI Personalizadas",
-                    "desc": "Herramientas de IA seguras y privadas adaptadas a los datos específicos de su industria."
+                    "title": "Diseño Responsive",
+                    "desc": "Se ve perfecta en cualquier dispositivo, desde móviles hasta pantallas 4K."
                 },
                 "item3": {
-                    "title": "IA Embebida",
-                    "desc": "Implementación de aprendizaje automático en dispositivos de borde para monitoreo en tiempo real y atención proactiva."
+                    "title": "Optimizada para SEO",
+                    "desc": "Mejores prácticas de SEO técnico integradas desde el principio."
                 }
             },
-            "projectsRef": "Vea cómo apliqué esto para"
+            "cta": "Hablemos de tu Proyecto Web"
+        },
+        "business": {
+            "title": "IA y Automatización",
+            "headline": "Deja de Improvisar. Construye Sistemas Personalizados con Eficiencia Garantizada.",
+            "intro": "Elimino cuellos de botella diseñando e implementando soluciones de automatización e IA a medida que se integran perfectamente con tu software y flujos de trabajo actuales.",
+            "list": {
+                "item1": {
+                    "title": "Optimización de Procesos",
+                    "desc": "Identifico, analizo y automatizo tareas administrativas repetitivas para maximizar la productividad del equipo."
+                },
+                "item2": {
+                    "title": "Soluciones de IA Personalizadas",
+                    "desc": "Herramientas de machine learning e IA a medida para proporcionar inteligencia competitiva e insights estratégicos."
+                },
+                "item3": {
+                    "title": "Consultoría de Estrategia Digital",
+                    "desc": "Análisis experto de tu infraestructura IT actual para implementar una arquitectura digital escalable, preparada para el futuro y segura."
+                }
+            },
+            "cta": "Solicita tu Solución a Medida"
         },
         "tech": {
             "title": "Robótica Aérea e I+D",
-            "headline": "Ingeniería Avanzada para Sistemas Autónomos.",
-            "intro": "Consultoría especializada para enjambres de drones, redes sin infraestructura y propuestas de I+D de alto riesgo.",
+            "headline": "Del Concepto al Despliegue. Especializados en Enjambres y Proyectos Críticos de I+D.",
+            "intro": "Ofrezco consultoría especializada e ingeniería a medida para sistemas autónomos complejos, con foco en comportamiento robusto de enjambres, operaciones sin infraestructura y obtención de financiación crítica.",
             "list": {
                 "item1": {
-                    "title": "Algoritmos de Coordinación de Enjambres",
-                    "desc": "Protocolos personalizados para la optimización de rutas de vuelo y prevención de colisiones."
+                    "title": "Inteligencia de Enjambre",
+                    "desc": "Algoritmos diseñados a medida para optimización ultra-fiable de rutas de vuelo y coordinación compleja sin colisiones."
                 },
                 "item2": {
-                    "title": "Simulación y Gemelos Digitales",
-                    "desc": "Métodos de simulación pioneros para garantizar un despliegue confiable en el mundo real antes del despegue."
+                    "title": "Sistemas de Control Descentralizados",
+                    "desc": "Diseño e implementación de protocolos distribuidos de guiado y soluciones tácticas de gestión de conflictos para operaciones complejas en el espacio aéreo."
                 },
                 "item3": {
-                    "title": "Ingeniería de Propuestas Técnicas",
-                    "desc": "Contribución experta a la redacción de licitaciones (Horizonte Europa, etc.) para mostrar capacidades innovadoras y asegurar financiación."
+                    "title": "Estrategia de Propuestas I+D",
+                    "desc": "Obtén subvenciones y financiación de alto valor con contribución técnica experta y redacción a nivel de doctorado."
                 }
             },
-            "academicRef": "Vea mi historial académico completo y publicaciones en"
+            "cta": "Hablemos de tus Retos en I+D"
         }
     },
     "ProjectsPage": {
-        "title": "Nuestros Proyectos",
+        "title": "Proyectos Seleccionados",
         "readMore": "Leer Más",
         "showLess": "Mostrar Menos",
         "filterTitle": "Filtrar por Categoría"
@@ -68,14 +93,14 @@
     "AboutPage": {
         "title": "Sobre Mí",
         "bio": {
-            "p1": "Soy el Dr. Jamie Wubben. Opero en la intersección de la tecnología profunda y la gestión estratégica.",
-            "p2": "Con un doctorado en Informática (Cum Laude), pasé años resolviendo los problemas más difíciles en robótica: cómo hacer que enjambres de drones se coordinen de forma autónoma en entornos impredecibles. Hoy, aplico ese mismo rigor a la automatización empresarial.",
-            "p3": "Ya sea escribiendo algoritmos para misiones aéreas o diseñando un flujo de trabajo de IA para una empresa local, mi enfoque es el mismo: Eficiencia, Resiliencia e Inteligencia."
+            "p1": "Soy el Dr. Jamie Wubben. Trabajo en la intersección entre la tecnología avanzada y la gestión estratégica.",
+            "p2": "Con un doctorado en Informática, pasé años resolviendo los problemas más difíciles en robótica: cómo hacer que enjambres de drones se coordinen de forma autónoma en entornos impredecibles. Hoy aplico ese mismo rigor a la automatización empresarial.",
+            "p3": "Ya sea escribiendo algoritmos para misiones aéreas o diseñando un flujo de trabajo de IA para un negocio local, mi enfoque es siempre el mismo: Eficiencia, Resiliencia e Inteligencia."
         },
         "skills": {
-            "technicalTitle": "Técnico",
+            "technicalTitle": "Habilidades Técnicas",
             "technical": [
-                "Programación de UAV",
+                "Programación de UAVs",
                 "Python",
                 "Java",
                 "Inteligencia de enjambre",
@@ -84,37 +109,39 @@
                 "Arduino",
                 "Docker",
                 "React",
-                "Ingeniería de prompts"
+                "Prompt engineering"
             ],
-            "softSkillsTitle": "Habilidades Blandas",
+            "softSkillsTitle": "Habilidades Interpersonales",
             "softSkills": [
                 "Colaboraciones interculturales",
                 "Experiencia internacional (España, Italia, Portugal, Bélgica)",
-                "Escritor (Papers de Investigación)",
+                "Redacción (artículos científicos)",
                 "Presentador",
-                "Buen comunicador",
-                "Pensador analítico"
+                "Buena comunicación",
+                "Pensamiento analítico"
             ],
             "languagesTitle": "Idiomas",
             "languages": "Inglés, Neerlandés, Español"
         }
     },
     "ContactPage": {
-        "title": "Optimicemos.",
-        "subtitle": "Con sede en Bélgica, trabajando globalmente. Estoy disponible para consultoría freelance, redacción técnica y proyectos de automatización.",
-        "content": "Ya sea que necesite optimizar sus operaciones comerciales con IA o requiera orientación experta en proyectos complejos de I+D, estoy aquí para ayudar. Contácteme para discutir cómo podemos lograr sus objetivos juntos.",
+        "title": "Optimicemos Juntos.",
+        "subtitle": "Con base en Bélgica, trabajando globalmente. Disponible para consultoría freelance, redacción técnica y proyectos de automatización.",
+        "content": "Ya sea que necesites optimizar las operaciones de tu negocio con IA o requieras orientación experta en proyectos complejos de I+D, estoy aquí para ayudarte. Ponte en contacto para discutir cómo podemos alcanzar tus objetivos juntos.",
         "form": {
             "name": "Nombre",
-            "email": "Correo electrónico",
-            "interest": "Estoy interesado en...",
+            "email": "Email",
+            "interest": "Me interesa...",
             "options": {
-                "automation": "Automatización de Negocios",
-                "uavs": "UAVs / I+D"
+                "website": "Desarrollo Web",
+                "automation": "IA y Automatización",
+                "rd": "Robótica Aérea e I+D",
+                "other": "Otro"
             },
             "submit": "Enviar Mensaje",
             "sending": "Enviando...",
-            "success": "¡Mensaje enviado con éxito! Me pondré en contacto pronto.",
-            "error": "Algo salió mal. Por favor intente de nuevo o envíeme un correo directo."
+            "success": "¡Mensaje enviado con éxito! Te responderé pronto.",
+            "error": "Algo salió mal. Por favor, inténtalo de nuevo o escríbeme directamente."
         },
         "email": "info@starlingstrategies.be",
         "note": "Hablo inglés, neerlandés y español."

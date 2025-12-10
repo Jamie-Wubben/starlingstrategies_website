@@ -1,62 +1,87 @@
 {
     "HomePage": {
         "hero": {
-            "title": "Intelligentie Orkestreren",
-            "subtitle": "Van autonome drone-zwermen tot gestroomlijnde bedrijfsprocessen. PhD-niveau engineering voor complexe systemen."
+            "title": "Precisie-engineering voor Bedrijven & Onderzoek.",
+            "subtitle": "We bouwen robuuste oplossingen die tastbare resultaten opleveren."
         },
         "fork": {
-            "business": {
-                "title": "Voor Kleine Bedrijven",
-                "text": "Ik wil taken automatiseren, AI-tools gebruiken en tijd besparen.",
-                "cta": "Ontdek Bedrijfsautomatisering"
+            "website": {
+                "title": "Website ontwikkeling",
+                "text": "Launch je digitale aanwezigheid met een snelle, moderne en zoekmachine-geoptimaliseerde website. De perfecte start om je klantcommunicatie te stroomlijnen.",
+                "cta": "Bouw mijn website"
             },
-            "tech": {
-                "title": "Voor Tech & Onderzoek",
-                "text": "Ik heb UAV-technologie, zwermalgoritmen of EU-aanbestedingsexpertise nodig.",
-                "cta": "Ontdek R&D Consulting"
+            "automation": {
+                "title": "AI & automatisering",
+                "text": "Verlaag operationele kosten en elimineer handmatig werk. Implementeer op maat gemaakte AI, custom tools en low-code oplossingen om je bedrijf direct te optimaliseren.",
+                "cta": "Ontdek automatisering"
+            },
+            "rd_consulting": {
+                "title": "R&D consulting",
+                "text": "Versnel innovatie met diepgaande technische expertise in UAVs, swarm intelligence, complexe algoritmes en succesvolle EU-subsidieaanvragen.",
+                "cta": "Bekijk technische capaciteiten"
             }
         }
     },
     "ServicesPage": {
+        "website": {
+            "title": "Website Ontwikkeling",
+            "headline": "Jouw Digitale Etalage, Geoptimaliseerd om Bezoekers in Omzet te Converteren.",
+            "intro": "Je digitale etalage moet net zo professioneel zijn als je bedrijf. Ik bouw high-performance websites die bezoekers omzetten in klanten.",
+            "list": {
+                "item1": {
+                    "title": "Design op Maat",
+                    "desc": "Een unieke, bespoke website gebouwd specifiek voor jouw merk, doelgroep en bedrijfsdoelen."
+                },
+                "item2": {
+                    "title": "Responsive Design",
+                    "desc": "Ziet er perfect uit op elk apparaat, van mobiele telefoons tot 4K-desktops."
+                },
+                "item3": {
+                    "title": "SEO Geoptimaliseerd",
+                    "desc": "Technische SEO best practices vanaf de basis ingebouwd."
+                }
+            },
+            "cta": "Bespreek je Website Doelen"
+        },
         "business": {
-            "title": "AI & Bedrijfsautomatisering",
-            "headline": "Praktische Intelligentie voor Groeiende Bedrijven.",
-            "intro": "Stop met gissen met AI. Ik bouw aangepaste automatiseringsoplossingen die naadloos integreren in uw dagelijkse activiteiten.",
+            "title": "AI & Automatisering",
+            "headline": "Stop met Gokken. Bouw Custom Systemen voor Gegarandeerde Efficiëntie.",
+            "intro": "Ik elimineer knelpunten door bespoke automatisering- en AI-oplossingen te ontwerpen en implementeren die naadloos integreren met je bestaande software en workflows.",
             "list": {
                 "item1": {
                     "title": "Workflow Optimalisatie",
-                    "desc": "Analyseren van communicatieknelpunten en automatiseren van administratieve taken."
+                    "desc": "Identificeer, analyseer en automatiseer repetitieve administratieve taken om teamproductiviteit te maximaliseren."
                 },
                 "item2": {
-                    "title": "Aangepaste GenAI Oplossingen",
-                    "desc": "Veilige, private AI-tools afgestemd op uw specifieke industriegegevens."
+                    "title": "Custom AI Oplossingen",
+                    "desc": "Bespoke machine learning en AI-tools voor competitieve intelligentie en strategische inzichten."
                 },
                 "item3": {
-                    "title": "Embedded AI",
-                    "desc": "Implementeren van machine learning op edge-apparaten voor real-time monitoring en proactieve zorg."
+                    "title": "Digitale Strategie Consulting",
+                    "desc": "Expert analyse van je huidige IT-infrastructuur om schaalbare, toekomstbestendige en veilige digitale architectuur te implementeren."
                 }
             },
-            "projectsRef": "Zie hoe ik dit heb toegepast voor"
+            "cta": "Vraag je Custom Oplossing aan"
         },
         "tech": {
-            "title": "Lucht Robotica & R&D",
-            "headline": "Geavanceerde Engineering voor Autonome Systemen.",
-            "intro": "Gespecialiseerd advies voor drone-zwermen, infrastructuurloze netwerken en R&D-voorstellen met hoge inzet.",
+            "title": "Drones & R&D",
+            "headline": "Van Concept tot Deployment. Gespecialiseerd in Swarms en High-Stakes R&D.",
+            "intro": "Ik bied gespecialiseerde consulting en custom engineering voor complexe autonome systemen, met focus op robuust swarm-gedrag, infrastructuurloze operaties en het veiligstellen van cruciale projectfinanciering.",
             "list": {
                 "item1": {
-                    "title": "Zwerm Coördinatie Algoritmen",
-                    "desc": "Aangepaste protocollen voor vliegpadoptimalisatie en botsingsvermijding."
+                    "title": "Swarm Intelligence",
+                    "desc": "Custom ontworpen algoritmes voor ultrabetrouwbare vliegpad-optimalisatie en complexe, botsingsvrije coördinatie."
                 },
                 "item2": {
-                    "title": "Simulatie & Digital Twins",
-                    "desc": "Baanbrekende simulatiemethoden om betrouwbare inzet in de echte wereld te garanderen vóór het opstijgen."
+                    "title": "Gedecentraliseerde Controlesystemen",
+                    "desc": "Design en implementatie van gedistribueerde guidance-protocollen en tactische conflict management oplossingen voor complexe luchtruimoperaties."
                 },
                 "item3": {
-                    "title": "Technische Voorstel Engineering",
-                    "desc": "Expertbijdrage aan het schrijven van aanbestedingen (Horizon Europe, enz.) om innovatieve capaciteiten te tonen en financiering veilig te stellen."
+                    "title": "R&D Proposal Strategie",
+                    "desc": "Verzeker hoogwaardige grants en funding met expert, PhD-level technische bijdrage en schrijfwerk."
                 }
             },
-            "academicRef": "Bekijk mijn volledige academische geschiedenis en publicaties op"
+            "cta": "Bespreek je R&D Uitdagingen"
         }
     },
     "ProjectsPage": {
@@ -68,18 +93,18 @@
     "AboutPage": {
         "title": "Over Mij",
         "bio": {
-            "p1": "Ik ben Dr. Jamie Wubben. Ik werk op het snijvlak van deep tech en strategisch management.",
-            "p2": "Met een PhD in Informatica (Cum Laude) heb ik jarenlang de moeilijkste problemen in de robotica opgelost: hoe zwermen drones autonoom te laten coördineren in onvoorspelbare omgevingen. Vandaag pas ik diezelfde nauwgezetheid toe op bedrijfsautomatisering.",
-            "p3": "Of ik nu algoritmen schrijf voor luchtmissies of een AI-workflow ontwerp voor een lokaal bedrijf, mijn focus is hetzelfde: Efficiëntie, Veerkracht en Intelligentie."
+            "p1": "Ik ben Dr. Jamie Wubben. Ik opereer op het snijvlak van deep tech en strategisch management.",
+            "p2": "Met een PhD in Informatica besteedde ik jaren aan het oplossen van de moeilijkste problemen in robotica: hoe je zwermen drones autonoom laat coördineren in onvoorspelbare omgevingen. Vandaag pas ik diezelfde nauwkeurigheid toe op bedrijfsautomatisering.",
+            "p3": "Of ik nu algoritmes schrijf voor luchtmissies of een AI-workflow ontwerp voor een lokaal bedrijf, mijn focus blijft hetzelfde: Efficiëntie, Veerkracht en Intelligentie."
         },
         "skills": {
             "technicalTitle": "Technisch",
             "technical": [
-                "UAV programmeren",
+                "UAV-programmering",
                 "Python",
                 "Java",
-                "Zwermintelligentie",
-                "Kunstmatige intelligentie",
+                "Swarm intelligence",
+                "Artificial intelligence",
                 "Embedded systems",
                 "Arduino",
                 "Docker",
@@ -88,9 +113,9 @@
             ],
             "softSkillsTitle": "Soft Skills",
             "softSkills": [
-                "Cross-culturele samenwerkingen",
+                "Interculturele samenwerkingen",
                 "Internationale ervaring (Spanje, Italië, Portugal, België)",
-                "Schrijver (Onderzoekspapers)",
+                "Schrijver (wetenschappelijke papers)",
                 "Presentator",
                 "Goede communicator",
                 "Analytisch denker"
@@ -100,21 +125,23 @@
         }
     },
     "ContactPage": {
-        "title": "Laten we optimaliseren.",
-        "subtitle": "Gevestigd in België, wereldwijd werkzaam. Ik ben beschikbaar voor freelance consultancy, technisch schrijven en automatiseringsprojecten.",
-        "content": "Of u nu uw bedrijfsprocessen wilt stroomlijnen met AI of deskundige begeleiding nodig heeft bij complexe R&D-projecten, ik sta voor u klaar. Neem contact op om te bespreken hoe we samen uw doelen kunnen bereiken.",
+        "title": "Laten we Optimaliseren.",
+        "subtitle": "Gevestigd in België, werkend wereldwijd. Beschikbaar voor freelance consulting, technisch schrijven en automatiseringsprojecten.",
+        "content": "Of je nu je bedrijfsoperaties wilt stroomlijnen met AI of expert begeleiding nodig hebt bij complexe R&D-projecten, ik help je graag. Neem contact op om te bespreken hoe we samen jouw doelen kunnen bereiken.",
         "form": {
             "name": "Naam",
-            "email": "E-mail",
+            "email": "Email",
             "interest": "Ik ben geïnteresseerd in...",
             "options": {
-                "automation": "Bedrijfsautomatisering",
-                "uavs": "UAV's / R&D"
+                "website": "Website Ontwikkeling",
+                "automation": "AI & Automatisering",
+                "rd": "Drones & R&D",
+                "other": "Anders"
             },
             "submit": "Verstuur Bericht",
-            "sending": "Verzenden...",
-            "success": "Bericht succesvol verzonden! Ik neem snel contact met u op.",
-            "error": "Er is iets misgegaan. Probeer het opnieuw of mail mij direct."
+            "sending": "Versturen...",
+            "success": "Bericht succesvol verzonden! Ik neem snel contact met je op.",
+            "error": "Er ging iets mis. Probeer het opnieuw of mail me direct."
         },
         "email": "info@starlingstrategies.be",
         "note": "Ik spreek Engels, Nederlands en Spaans."

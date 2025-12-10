@@ -1,6 +1,6 @@
 ---
 title: "CASCADE Projectvoorstel (Horizon Europe)"
-role: "Aanbestedingsspecialist"
+role: "Tender Specialist"
 category: "R&D"
 tags: ["R&D", "Projectvoorstel", "Collaboratieve AI"]
 date: "2025-09-17"

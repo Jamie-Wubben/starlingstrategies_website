@@ -2,9 +2,12 @@
 
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
+import { useSearchParams } from 'next/navigation';
 
 export default function ContactForm() {
     const t = useTranslations('ContactPage.form');
+    const searchParams = useSearchParams();
+    const defaultInterest = searchParams.get('interest') || 'website';
     const [status, setStatus] = useState<'idle' | 'sending' | 'success' | 'error'>('idle');
 
     const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
@@ -70,10 +73,13 @@ export default function ContactForm() {
                 <select
                     id="interest"
                     name="interest"
+                    defaultValue={defaultInterest}
                     className="w-full bg-gray-900 border border-gray-700 rounded-lg px-4 py-3 text-white focus:outline-none focus:border-primary transition-colors"
                 >
+                    <option value="website">{t('options.website')}</option>
                     <option value="automation">{t('options.automation')}</option>
-                    <option value="uavs">{t('options.uavs')}</option>
+                    <option value="rd">{t('options.rd')}</option>
+                    <option value="other">{t('options.other')}</option>
                 </select>
             </div>
 
@@ -92,10 +98,10 @@ export default function ContactForm() {
                 type="submit"
                 disabled={status === 'sending' || status === 'success'}
                 className={`w-full font-bold py-4 px-6 rounded-lg transition-all shadow-lg shadow-primary/25 text-lg ${status === 'sending'
-                        ? 'bg-gray-700 cursor-wait text-gray-300'
-                        : status === 'success'
-                            ? 'bg-green-600 cursor-default text-white'
-                            : 'bg-primary hover:bg-blue-600 text-white'
+                    ? 'bg-gray-700 cursor-wait text-gray-300'
+                    : status === 'success'
+                        ? 'bg-green-600 cursor-default text-white'
+                        : 'bg-primary hover:bg-blue-600 text-white'
                     }`}
             >
                 {status === 'sending' ? t('sending') : status === 'success' ? t('success') : t('submit')}

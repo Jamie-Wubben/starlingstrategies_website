@@ -1,7 +1,7 @@
 ---
 title: "TinyML Hondengezondheidsmonitor"
 role: "AI-engineer"
-category: "AI Utility"
+category: "AI Hulpprogramma"
 tags: ["TinyML", "TensorFlow", "Akoestische Classificatie"]
 date: "2025-12-10"
 url: "https://github.com/your-project-repo"

@@ -1,7 +1,7 @@
 ---
 title: "LLM-gestuurde WhatsApp Chatbot"
 role: "AI-engineer"
-category: "AI Utility"
+category: "AI Hulpprogramma"
 tags: ["LLM", "NLP", "Klantenservice"]
 date: "2024-11-01"
 url: ""

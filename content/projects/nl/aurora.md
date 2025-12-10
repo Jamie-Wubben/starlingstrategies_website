@@ -1,7 +1,7 @@
 ---
 title: "AURORA Project (EDF Voorstel)"
 role: "Tender Specialist"
-category: "O&O"
+category: "R&D"
 tags: ["Voorstellen Schrijven", "Defensie", "AI-hulpmiddel"]
 date: "2025-10-16"
 url: ""
