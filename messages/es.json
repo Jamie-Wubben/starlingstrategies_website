@@ -60,7 +60,10 @@
         }
     },
     "ProjectsPage": {
-        "title": "Proyectos Seleccionados"
+        "title": "Nuestros Proyectos",
+        "readMore": "Leer Más",
+        "showLess": "Mostrar Menos",
+        "filterTitle": "Filtrar por Categoría"
     },
     "AboutPage": {
         "title": "Sobre Mí",
@@ -70,25 +73,50 @@
             "p3": "Ya sea escribiendo algoritmos para misiones aéreas o diseñando un flujo de trabajo de IA para una empresa local, mi enfoque es el mismo: Eficiencia, Resiliencia e Inteligencia."
         },
         "skills": {
-            "technical": "Programación UAV, Inteligencia de Enjambre, Inteligencia Artificial, Sistemas Embebidos",
-            "strategic": "Gestión Estratégica, Eficiencia Operativa, Colaboración Intercultural",
-            "languages": "Inglés, Holandés, Español (Fluido)"
+            "technicalTitle": "Técnico",
+            "technical": [
+                "Programación de UAV",
+                "Python",
+                "Java",
+                "Inteligencia de enjambre",
+                "Inteligencia artificial",
+                "Sistemas embebidos",
+                "Arduino",
+                "Docker",
+                "React",
+                "Ingeniería de prompts"
+            ],
+            "softSkillsTitle": "Habilidades Blandas",
+            "softSkills": [
+                "Colaboraciones interculturales",
+                "Experiencia internacional (España, Italia, Portugal, Bélgica)",
+                "Escritor (Papers de Investigación)",
+                "Presentador",
+                "Buen comunicador",
+                "Pensador analítico"
+            ],
+            "languagesTitle": "Idiomas",
+            "languages": "Inglés, Neerlandés, Español"
         }
     },
     "ContactPage": {
         "title": "Optimicemos.",
-        "subtitle": "Con base en Europa, trabajando globalmente. Estoy disponible para consultoría freelance, redacción técnica y proyectos de automatización.",
+        "subtitle": "Con sede en Bélgica, trabajando globalmente. Estoy disponible para consultoría freelance, redacción técnica y proyectos de automatización.",
+        "content": "Ya sea que necesite optimizar sus operaciones comerciales con IA o requiera orientación experta en proyectos complejos de I+D, estoy aquí para ayudar. Contácteme para discutir cómo podemos lograr sus objetivos juntos.",
         "form": {
             "name": "Nombre",
-            "email": "Correo Electrónico",
+            "email": "Correo electrónico",
             "interest": "Estoy interesado en...",
             "options": {
-                "automation": "Automatización Empresarial",
+                "automation": "Automatización de Negocios",
                 "uavs": "UAVs / I+D"
             },
-            "submit": "Enviar Mensaje"
+            "submit": "Enviar Mensaje",
+            "sending": "Enviando...",
+            "success": "¡Mensaje enviado con éxito! Me pondré en contacto pronto.",
+            "error": "Algo salió mal. Por favor intente de nuevo o envíeme un correo directo."
         },
-        "email": "wubben.jamie@outlook.com",
-        "note": "Hablo inglés, holandés y español."
+        "email": "info@starlingstrategies.be",
+        "note": "Hablo inglés, neerlandés y español."
     }
 }

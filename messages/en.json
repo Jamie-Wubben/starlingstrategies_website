@@ -60,24 +60,49 @@
         }
     },
     "ProjectsPage": {
-        "title": "Selected Projects"
+        "title": "Selected Projects",
+        "readMore": "Read More",
+        "showLess": "Show Less",
+        "filterTitle": "Filter by Category"
     },
     "AboutPage": {
         "title": "About Me",
         "bio": {
             "p1": "I am Dr. Jamie Wubben. I operate at the intersection of deep tech and strategic management.",
-            "p2": "With a PhD in Informatics (Cum Laude), I spent years solving the hardest problems in robotics: how to make swarms of drones coordinate autonomously in unpredictable environments. Today, I apply that same rigor to business automation.",
+            "p2": "With a PhD in Informatics, I spent years solving the hardest problems in robotics: how to make swarms of drones coordinate autonomously in unpredictable environments. Today, I apply that same rigor to business automation.",
             "p3": "Whether I am writing algorithms for aerial missions or designing an AI workflow for a local business, my focus is the same: Efficiency, Resilience, and Intelligence."
         },
         "skills": {
-            "technical": "UAV Programming, Swarm Intelligence, Artificial Intelligence, Embedded Systems",
-            "strategic": "Strategic Management, Operational Efficiency, Cross-Cultural Collaboration",
-            "languages": "English, Dutch, Spanish (Fluent)"
+            "technicalTitle": "Technical",
+            "technical": [
+                "UAV programming",
+                "Python",
+                "Java",
+                "Swarm intelligence",
+                "Artificial intelligence",
+                "Embedded systems",
+                "Arduino",
+                "Docker",
+                "React",
+                "Prompt engineering"
+            ],
+            "softSkillsTitle": "Soft Skills",
+            "softSkills": [
+                "Cross-culture collaborations",
+                "International experience (Spain, Italy, Portugal, Belgium)",
+                "Writer (Research Papers)",
+                "Presenter",
+                "Good communicator",
+                "Analytical thinker"
+            ],
+            "languagesTitle": "Languages",
+            "languages": "English, Dutch, Spanish"
         }
     },
     "ContactPage": {
         "title": "Let's Optimize.",
-        "subtitle": "Based in Europe, working globally. I am available for freelance consulting, technical writing, and automation projects.",
+        "subtitle": "Based in Belgium, working globally. I am available for freelance consulting, technical writing, and automation projects.",
+        "content": "Whether you need to streamline your business operations with AI or require expert guidance on complex R&D projects, I'm here to help. Reach out to discuss how we can achieve your goals together.",
         "form": {
             "name": "Name",
             "email": "Email",
@@ -86,9 +111,12 @@
                 "automation": "Business Automation",
                 "uavs": "UAVs / R&D"
             },
-            "submit": "Send Message"
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "success": "Message sent successfully! I'll get back to you soon.",
+            "error": "Something went wrong. Please try again or email me directly."
         },
-        "email": "wubben.jamie@outlook.com",
+        "email": "info@starlingstrategies.be",
         "note": "I speak English, Dutch, and Spanish."
     }
 }

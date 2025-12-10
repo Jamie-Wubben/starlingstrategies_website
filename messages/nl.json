@@ -60,7 +60,10 @@
         }
     },
     "ProjectsPage": {
-        "title": "Geselecteerde Projecten"
+        "title": "Geselecteerde Projecten",
+        "readMore": "Lees Meer",
+        "showLess": "Toon Minder",
+        "filterTitle": "Filter op Categorie"
     },
     "AboutPage": {
         "title": "Over Mij",
@@ -70,25 +73,50 @@
             "p3": "Of ik nu algoritmen schrijf voor luchtmissies of een AI-workflow ontwerp voor een lokaal bedrijf, mijn focus is hetzelfde: Efficiëntie, Veerkracht en Intelligentie."
         },
         "skills": {
-            "technical": "UAV Programmering, Zwerm Intelligentie, Kunstmatige Intelligentie, Embedded Systemen",
-            "strategic": "Strategisch Management, Operationele Efficiëntie, Cross-culturele Samenwerking",
-            "languages": "Engels, Nederlands, Spaans (Vloeiend)"
+            "technicalTitle": "Technisch",
+            "technical": [
+                "UAV programmeren",
+                "Python",
+                "Java",
+                "Zwermintelligentie",
+                "Kunstmatige intelligentie",
+                "Embedded systems",
+                "Arduino",
+                "Docker",
+                "React",
+                "Prompt engineering"
+            ],
+            "softSkillsTitle": "Soft Skills",
+            "softSkills": [
+                "Cross-culturele samenwerkingen",
+                "Internationale ervaring (Spanje, Italië, Portugal, België)",
+                "Schrijver (Onderzoekspapers)",
+                "Presentator",
+                "Goede communicator",
+                "Analytisch denker"
+            ],
+            "languagesTitle": "Talen",
+            "languages": "Engels, Nederlands, Spaans"
         }
     },
     "ContactPage": {
-        "title": "Laten we Optimaliseren.",
-        "subtitle": "Gevestigd in Europa, wereldwijd werkzaam. Ik ben beschikbaar voor freelance consulting, technisch schrijven en automatiseringsprojecten.",
+        "title": "Laten we optimaliseren.",
+        "subtitle": "Gevestigd in België, wereldwijd werkzaam. Ik ben beschikbaar voor freelance consultancy, technisch schrijven en automatiseringsprojecten.",
+        "content": "Of u nu uw bedrijfsprocessen wilt stroomlijnen met AI of deskundige begeleiding nodig heeft bij complexe R&D-projecten, ik sta voor u klaar. Neem contact op om te bespreken hoe we samen uw doelen kunnen bereiken.",
         "form": {
             "name": "Naam",
             "email": "E-mail",
             "interest": "Ik ben geïnteresseerd in...",
             "options": {
                 "automation": "Bedrijfsautomatisering",
-                "uavs": "UAVs / R&D"
+                "uavs": "UAV's / R&D"
             },
-            "submit": "Verstuur Bericht"
+            "submit": "Verstuur Bericht",
+            "sending": "Verzenden...",
+            "success": "Bericht succesvol verzonden! Ik neem snel contact met u op.",
+            "error": "Er is iets misgegaan. Probeer het opnieuw of mail mij direct."
         },
-        "email": "wubben.jamie@outlook.com",
+        "email": "info@starlingstrategies.be",
         "note": "Ik spreek Engels, Nederlands en Spaans."
     }
 }
