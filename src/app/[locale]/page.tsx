@@ -29,7 +29,7 @@ export default async function HomePage({
           {/* The Fork (Moved Up) */}
           <div className="grid md:grid-cols-3 gap-8 mt-12">
             {/* Website development */}
-            <Link href={`/${locale}/services`} className="group relative p-8 rounded-2xl bg-gray-900/50 border border-gray-800 hover:border-[#f97316]/50 transition-all duration-300 hover:shadow-2xl hover:shadow-[#f97316]/10 text-left block">
+            <Link href={`/${locale}/services#website-development`} className="group relative p-8 rounded-2xl bg-gray-900/50 border border-gray-800 hover:border-[#f97316]/50 transition-all duration-300 hover:shadow-2xl hover:shadow-[#f97316]/10 text-left block">
               <div className="absolute inset-0 bg-gradient-to-br from-[#f97316]/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl"></div>
               <div className="relative z-10">
                 <div className="w-12 h-12 bg-[#f97316]/20 rounded-lg flex items-center justify-center mb-6 text-[#f97316]">
@@ -49,7 +49,7 @@ export default async function HomePage({
             </Link>
 
             {/* AI & automation */}
-            <Link href={`/${locale}/services`} className="group relative p-8 rounded-2xl bg-gray-900/50 border border-gray-800 hover:border-primary/50 transition-all duration-300 hover:shadow-2xl hover:shadow-primary/10 text-left block">
+            <Link href={`/${locale}/services#ai-automation`} className="group relative p-8 rounded-2xl bg-gray-900/50 border border-gray-800 hover:border-primary/50 transition-all duration-300 hover:shadow-2xl hover:shadow-primary/10 text-left block">
               <div className="absolute inset-0 bg-gradient-to-br from-primary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl"></div>
               <div className="relative z-10">
                 <div className="w-12 h-12 bg-primary/20 rounded-lg flex items-center justify-center mb-6 text-primary">
@@ -65,7 +65,7 @@ export default async function HomePage({
             </Link>
 
             {/* R&D consulting*/}
-            <Link href={`/${locale}/services`} className="group relative p-8 rounded-2xl bg-gray-900/50 border border-gray-800 hover:border-secondary/50 transition-all duration-300 hover:shadow-2xl hover:shadow-secondary/10 text-left block">
+            <Link href={`/${locale}/services#rd-consulting`} className="group relative p-8 rounded-2xl bg-gray-900/50 border border-gray-800 hover:border-secondary/50 transition-all duration-300 hover:shadow-2xl hover:shadow-secondary/10 text-left block">
               <div className="absolute inset-0 bg-gradient-to-br from-secondary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity rounded-2xl"></div>
               <div className="relative z-10">
                 <div className="w-12 h-12 bg-secondary/20 rounded-lg flex items-center justify-center mb-6 text-secondary">

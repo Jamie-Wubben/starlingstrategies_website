@@ -11,7 +11,7 @@
                 "cta": "Build my website"
             },
             "automation": {
-                "title": "AI & workflow automation",
+                "title": "AI & automation",
                 "text": "Cut operational costs and eliminate manual work. Implement tailored AI, custom tools, and low-code solutions to instantly streamline your business.",
                 "cta": "Explore automation"
             },
@@ -23,45 +23,65 @@
         }
     },
     "ServicesPage": {
+        "website": {
+            "title": "Website Development",
+            "headline": "Your Digital Storefront, Optimized to Convert Visitors into Revenue.",
+            "intro": "Your digital storefront needs to be as professional as your business. I build high-performance websites that convert visitors into clients.",
+            "list": {
+                "item1": {
+                    "title": "Tailored Design",
+                    "desc": "A unique, bespoke website built precisely to your brand, audience, and business goals."
+                },
+                "item2": {
+                    "title": "Responsive Design",
+                    "desc": "Looks perfect on every device, from mobile phones to 4K desktops."
+                },
+                "item3": {
+                    "title": "SEO Optimized",
+                    "desc": "Technical SEO best practices built-in from the ground up."
+                }
+            },
+            "cta": "Discuss Your Website Goals"
+        },
         "business": {
-            "title": "AI & Business Automation",
-            "headline": "Practical Intelligence for Growing Businesses.",
-            "intro": "Stop guessing with AI. I build custom automation solutions that integrate seamlessly into your daily operations.",
+            "title": "AI & Automation",
+            "headline": "Stop Guessing. Build Custom Systems for Guaranteed Efficiency.",
+            "intro": "I eliminate bottlenecks by designing and implementing bespoke automation and AI solutions that seamlessly integrate with your existing software and workflows.",
             "list": {
                 "item1": {
                     "title": "Workflow Optimization",
-                    "desc": "Analyzing communication bottlenecks and automating administrative tasks."
+                    "desc": "Identify, analyze, and automate repetitive administrative tasks to maximize team productivity."
                 },
                 "item2": {
-                    "title": "Custom GenAI Solutions",
-                    "desc": "Secure, private AI tools tailored to your specific industry data."
+                    "title": "Custom AI Solutions",
+                    "desc": "Bespoke machine learning and AI tools, to provide competitive intelligence and insights.."
                 },
                 "item3": {
-                    "title": "Embedded AI",
-                    "desc": "Implementing machine learning on edge devices for real-time monitoring and proactive care."
+                    "title": "Digital Strategy Consulting",
+                    "desc": "Expert analysis of your current IT infrastructure to implement scalable, future-proof, and secure digital architecture."
                 }
             },
-            "projectsRef": "See how I applied this for"
+            "cta": "Request Your Custom Solution"
         },
         "tech": {
             "title": "Aerial Robotics & R&D",
-            "headline": "Advanced Engineering for Autonomous Systems.",
-            "intro": "Specialized consulting for drone swarms, infrastructureless networks, and high-stakes R&D proposals.",
+            "headline": "From Concept to Deployment. Specializing in Swarms and High-Stakes R&D.",
+            "intro": "I provide specialized consulting and custom engineering for complex autonomous systems, focusing on robust swarm behavior, infrastructureless operations, and securing critical project funding.",
             "list": {
                 "item1": {
-                    "title": "Swarm Coordination Algorithms",
-                    "desc": "Custom protocols for flight path optimization and collision avoidance."
+                    "title": "Swarm Intelligence",
+                    "desc": "Custom-designed algorithms for ultra-reliable flight path optimization and complex, collision-free coordination."
                 },
                 "item2": {
-                    "title": "Simulation & Digital Twins",
-                    "desc": "Pioneering simulation methods to ensure reliable real-world deployment before liftoff."
+                    "title": "Decentralized Control Systems",
+                    "desc": "Design and implementation of distributed guidance protocols and tactical conflict management solutions for complex airspace operations."
                 },
                 "item3": {
-                    "title": "Technical Proposal Engineering",
-                    "desc": "Expert contribution to tender writing (Horizon Europe, etc.) to showcase innovative capabilities and secure funding."
+                    "title": "R&D Proposal Strategy",
+                    "desc": "Secure high-value grants and funding with expert, PhD-level technical contribution and writing."
                 }
             },
-            "academicRef": "View my full academic history and publications on"
+            "cta": "Discuss Your R&D Challenges"
         }
     },
     "ProjectsPage": {
