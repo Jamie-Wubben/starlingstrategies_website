@@ -1,11 +1,12 @@
 'use client';
 
 import { useState } from 'react';
-import { useTranslations } from 'next-intl';
+import { useTranslations, useLocale } from 'next-intl';
 import { useSearchParams } from 'next/navigation';
 
 export default function ContactForm() {
     const t = useTranslations('ContactPage.form');
+    const locale = useLocale();
     const searchParams = useSearchParams();
     const defaultInterest = searchParams.get('interest') || 'website';
     const [status, setStatus] = useState<'idle' | 'sending' | 'success' | 'error'>('idle');
@@ -20,6 +21,7 @@ export default function ContactForm() {
             email: formData.get('email'),
             interest: formData.get('interest'),
             message: formData.get('message'),
+            locale: locale,
         };
 
         try {

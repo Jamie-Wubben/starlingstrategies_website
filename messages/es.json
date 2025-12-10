@@ -127,7 +127,6 @@
     "ContactPage": {
         "title": "Optimicemos Juntos.",
         "subtitle": "Con base en Bélgica, trabajando globalmente. Disponible para consultoría freelance, redacción técnica y proyectos de automatización.",
-        "content": "Ya sea que necesites optimizar las operaciones de tu negocio con IA o requieras orientación experta en proyectos complejos de I+D, estoy aquí para ayudarte. Ponte en contacto para discutir cómo podemos alcanzar tus objetivos juntos.",
         "form": {
             "name": "Nombre",
             "email": "Email",

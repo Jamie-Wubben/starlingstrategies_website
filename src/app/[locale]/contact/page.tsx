@@ -14,9 +14,6 @@ export default async function ContactPage() {
                     <p className="text-xl text-gray-300">
                         {t('subtitle')}
                     </p>
-                    <p className="text-lg text-gray-400 max-w-2xl mx-auto leading-relaxed">
-                        {t('content')}
-                    </p>
                 </div>
 
                 <div className="bg-gray-900/30 p-8 md:p-10 rounded-2xl border border-gray-800 shadow-xl shadow-primary/5">

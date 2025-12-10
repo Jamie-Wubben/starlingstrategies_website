@@ -127,7 +127,6 @@
     "ContactPage": {
         "title": "Let's Optimize.",
         "subtitle": "Based in Belgium, working globally. I am available for freelance consulting, technical writing, and automation projects.",
-        "content": "Whether you need to streamline your business operations with AI or require expert guidance on complex R&D projects, I'm here to help. Reach out to discuss how we can achieve your goals together.",
         "form": {
             "name": "Name",
             "email": "Email",
