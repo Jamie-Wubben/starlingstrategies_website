@@ -1,0 +1,94 @@
+{
+    "HomePage": {
+        "hero": {
+            "title": "Intelligentie Orkestreren",
+            "subtitle": "Van autonome drone-zwermen tot gestroomlijnde bedrijfsprocessen. PhD-niveau engineering voor complexe systemen."
+        },
+        "fork": {
+            "business": {
+                "title": "Voor Kleine Bedrijven",
+                "text": "Ik wil taken automatiseren, AI-tools gebruiken en tijd besparen.",
+                "cta": "Ontdek Bedrijfsautomatisering"
+            },
+            "tech": {
+                "title": "Voor Tech & Onderzoek",
+                "text": "Ik heb UAV-technologie, zwermalgoritmen of EU-aanbestedingsexpertise nodig.",
+                "cta": "Ontdek R&D Consulting"
+            }
+        }
+    },
+    "ServicesPage": {
+        "business": {
+            "title": "AI & Bedrijfsautomatisering",
+            "headline": "Praktische Intelligentie voor Groeiende Bedrijven.",
+            "intro": "Stop met gissen met AI. Ik bouw aangepaste automatiseringsoplossingen die naadloos integreren in uw dagelijkse activiteiten.",
+            "list": {
+                "item1": {
+                    "title": "Workflow Optimalisatie",
+                    "desc": "Analyseren van communicatieknelpunten en automatiseren van administratieve taken."
+                },
+                "item2": {
+                    "title": "Aangepaste GenAI Oplossingen",
+                    "desc": "Veilige, private AI-tools afgestemd op uw specifieke industriegegevens."
+                },
+                "item3": {
+                    "title": "Embedded AI",
+                    "desc": "Implementeren van machine learning op edge-apparaten voor real-time monitoring en proactieve zorg."
+                }
+            },
+            "projectsRef": "Zie hoe ik dit heb toegepast voor"
+        },
+        "tech": {
+            "title": "Lucht Robotica & R&D",
+            "headline": "Geavanceerde Engineering voor Autonome Systemen.",
+            "intro": "Gespecialiseerd advies voor drone-zwermen, infrastructuurloze netwerken en R&D-voorstellen met hoge inzet.",
+            "list": {
+                "item1": {
+                    "title": "Zwerm Coördinatie Algoritmen",
+                    "desc": "Aangepaste protocollen voor vliegpadoptimalisatie en botsingsvermijding."
+                },
+                "item2": {
+                    "title": "Simulatie & Digital Twins",
+                    "desc": "Baanbrekende simulatiemethoden om betrouwbare inzet in de echte wereld te garanderen vóór het opstijgen."
+                },
+                "item3": {
+                    "title": "Technische Voorstel Engineering",
+                    "desc": "Expertbijdrage aan het schrijven van aanbestedingen (Horizon Europe, enz.) om innovatieve capaciteiten te tonen en financiering veilig te stellen."
+                }
+            },
+            "academicRef": "Bekijk mijn volledige academische geschiedenis en publicaties op"
+        }
+    },
+    "ProjectsPage": {
+        "title": "Geselecteerde Projecten"
+    },
+    "AboutPage": {
+        "title": "Over Mij",
+        "bio": {
+            "p1": "Ik ben Dr. Jamie Wubben. Ik werk op het snijvlak van deep tech en strategisch management.",
+            "p2": "Met een PhD in Informatica (Cum Laude) heb ik jarenlang de moeilijkste problemen in de robotica opgelost: hoe zwermen drones autonoom te laten coördineren in onvoorspelbare omgevingen. Vandaag pas ik diezelfde nauwgezetheid toe op bedrijfsautomatisering.",
+            "p3": "Of ik nu algoritmen schrijf voor luchtmissies of een AI-workflow ontwerp voor een lokaal bedrijf, mijn focus is hetzelfde: Efficiëntie, Veerkracht en Intelligentie."
+        },
+        "skills": {
+            "technical": "UAV Programmering, Zwerm Intelligentie, Kunstmatige Intelligentie, Embedded Systemen",
+            "strategic": "Strategisch Management, Operationele Efficiëntie, Cross-culturele Samenwerking",
+            "languages": "Engels, Nederlands, Spaans (Vloeiend)"
+        }
+    },
+    "ContactPage": {
+        "title": "Laten we Optimaliseren.",
+        "subtitle": "Gevestigd in Europa, wereldwijd werkzaam. Ik ben beschikbaar voor freelance consulting, technisch schrijven en automatiseringsprojecten.",
+        "form": {
+            "name": "Naam",
+            "email": "E-mail",
+            "interest": "Ik ben geïnteresseerd in...",
+            "options": {
+                "automation": "Bedrijfsautomatisering",
+                "uavs": "UAVs / R&D"
+            },
+            "submit": "Verstuur Bericht"
+        },
+        "email": "wubben.jamie@outlook.com",
+        "note": "Ik spreek Engels, Nederlands en Spaans."
+    }
+}

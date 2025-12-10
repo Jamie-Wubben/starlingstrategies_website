@@ -1,0 +1,94 @@
+{
+    "HomePage": {
+        "hero": {
+            "title": "Orquestando Inteligencia",
+            "subtitle": "Desde enjambres de drones autónomos hasta flujos de trabajo empresariales optimizados. Ingeniería de nivel PhD para sistemas complejos."
+        },
+        "fork": {
+            "business": {
+                "title": "Para Pequeñas Empresas",
+                "text": "Quiero automatizar tareas, usar herramientas de IA y ahorrar tiempo.",
+                "cta": "Explorar Automatización Empresarial"
+            },
+            "tech": {
+                "title": "Para Tecnología e Investigación",
+                "text": "Necesito tecnología UAV, algoritmos de enjambre o experiencia en licitaciones de la UE.",
+                "cta": "Explorar Consultoría I+D"
+            }
+        }
+    },
+    "ServicesPage": {
+        "business": {
+            "title": "IA y Automatización Empresarial",
+            "headline": "Inteligencia Práctica para Empresas en Crecimiento.",
+            "intro": "Deje de adivinar con la IA. Construyo soluciones de automatización personalizadas que se integran perfectamente en sus operaciones diarias.",
+            "list": {
+                "item1": {
+                    "title": "Optimización de Flujos de Trabajo",
+                    "desc": "Análisis de cuellos de botella en la comunicación y automatización de tareas administrativas."
+                },
+                "item2": {
+                    "title": "Soluciones GenAI Personalizadas",
+                    "desc": "Herramientas de IA seguras y privadas adaptadas a los datos específicos de su industria."
+                },
+                "item3": {
+                    "title": "IA Embebida",
+                    "desc": "Implementación de aprendizaje automático en dispositivos de borde para monitoreo en tiempo real y atención proactiva."
+                }
+            },
+            "projectsRef": "Vea cómo apliqué esto para"
+        },
+        "tech": {
+            "title": "Robótica Aérea e I+D",
+            "headline": "Ingeniería Avanzada para Sistemas Autónomos.",
+            "intro": "Consultoría especializada para enjambres de drones, redes sin infraestructura y propuestas de I+D de alto riesgo.",
+            "list": {
+                "item1": {
+                    "title": "Algoritmos de Coordinación de Enjambres",
+                    "desc": "Protocolos personalizados para la optimización de rutas de vuelo y prevención de colisiones."
+                },
+                "item2": {
+                    "title": "Simulación y Gemelos Digitales",
+                    "desc": "Métodos de simulación pioneros para garantizar un despliegue confiable en el mundo real antes del despegue."
+                },
+                "item3": {
+                    "title": "Ingeniería de Propuestas Técnicas",
+                    "desc": "Contribución experta a la redacción de licitaciones (Horizonte Europa, etc.) para mostrar capacidades innovadoras y asegurar financiación."
+                }
+            },
+            "academicRef": "Vea mi historial académico completo y publicaciones en"
+        }
+    },
+    "ProjectsPage": {
+        "title": "Proyectos Seleccionados"
+    },
+    "AboutPage": {
+        "title": "Sobre Mí",
+        "bio": {
+            "p1": "Soy el Dr. Jamie Wubben. Opero en la intersección de la tecnología profunda y la gestión estratégica.",
+            "p2": "Con un doctorado en Informática (Cum Laude), pasé años resolviendo los problemas más difíciles en robótica: cómo hacer que enjambres de drones se coordinen de forma autónoma en entornos impredecibles. Hoy, aplico ese mismo rigor a la automatización empresarial.",
+            "p3": "Ya sea escribiendo algoritmos para misiones aéreas o diseñando un flujo de trabajo de IA para una empresa local, mi enfoque es el mismo: Eficiencia, Resiliencia e Inteligencia."
+        },
+        "skills": {
+            "technical": "Programación UAV, Inteligencia de Enjambre, Inteligencia Artificial, Sistemas Embebidos",
+            "strategic": "Gestión Estratégica, Eficiencia Operativa, Colaboración Intercultural",
+            "languages": "Inglés, Holandés, Español (Fluido)"
+        }
+    },
+    "ContactPage": {
+        "title": "Optimicemos.",
+        "subtitle": "Con base en Europa, trabajando globalmente. Estoy disponible para consultoría freelance, redacción técnica y proyectos de automatización.",
+        "form": {
+            "name": "Nombre",
+            "email": "Correo Electrónico",
+            "interest": "Estoy interesado en...",
+            "options": {
+                "automation": "Automatización Empresarial",
+                "uavs": "UAVs / I+D"
+            },
+            "submit": "Enviar Mensaje"
+        },
+        "email": "wubben.jamie@outlook.com",
+        "note": "Hablo inglés, holandés y español."
+    }
+}

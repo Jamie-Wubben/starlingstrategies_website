@@ -1,0 +1,94 @@
+{
+    "HomePage": {
+        "hero": {
+            "title": "Orchestrating Intelligence",
+            "subtitle": "From autonomous drone swarms to streamlined business workflows. PhD-level engineering for complex systems."
+        },
+        "fork": {
+            "business": {
+                "title": "For Small Businesses",
+                "text": "I want to automate tasks, use AI tools, and save time.",
+                "cta": "Explore Business Automation"
+            },
+            "tech": {
+                "title": "For Tech & Research",
+                "text": "I need UAV technology, swarm algorithms, or EU tender expertise.",
+                "cta": "Explore R&D Consulting"
+            }
+        }
+    },
+    "ServicesPage": {
+        "business": {
+            "title": "AI & Business Automation",
+            "headline": "Practical Intelligence for Growing Businesses.",
+            "intro": "Stop guessing with AI. I build custom automation solutions that integrate seamlessly into your daily operations.",
+            "list": {
+                "item1": {
+                    "title": "Workflow Optimization",
+                    "desc": "Analyzing communication bottlenecks and automating administrative tasks."
+                },
+                "item2": {
+                    "title": "Custom GenAI Solutions",
+                    "desc": "Secure, private AI tools tailored to your specific industry data."
+                },
+                "item3": {
+                    "title": "Embedded AI",
+                    "desc": "Implementing machine learning on edge devices for real-time monitoring and proactive care."
+                }
+            },
+            "projectsRef": "See how I applied this for"
+        },
+        "tech": {
+            "title": "Aerial Robotics & R&D",
+            "headline": "Advanced Engineering for Autonomous Systems.",
+            "intro": "Specialized consulting for drone swarms, infrastructureless networks, and high-stakes R&D proposals.",
+            "list": {
+                "item1": {
+                    "title": "Swarm Coordination Algorithms",
+                    "desc": "Custom protocols for flight path optimization and collision avoidance."
+                },
+                "item2": {
+                    "title": "Simulation & Digital Twins",
+                    "desc": "Pioneering simulation methods to ensure reliable real-world deployment before liftoff."
+                },
+                "item3": {
+                    "title": "Technical Proposal Engineering",
+                    "desc": "Expert contribution to tender writing (Horizon Europe, etc.) to showcase innovative capabilities and secure funding."
+                }
+            },
+            "academicRef": "View my full academic history and publications on"
+        }
+    },
+    "ProjectsPage": {
+        "title": "Selected Projects"
+    },
+    "AboutPage": {
+        "title": "About Me",
+        "bio": {
+            "p1": "I am Dr. Jamie Wubben. I operate at the intersection of deep tech and strategic management.",
+            "p2": "With a PhD in Informatics (Cum Laude), I spent years solving the hardest problems in robotics: how to make swarms of drones coordinate autonomously in unpredictable environments. Today, I apply that same rigor to business automation.",
+            "p3": "Whether I am writing algorithms for aerial missions or designing an AI workflow for a local business, my focus is the same: Efficiency, Resilience, and Intelligence."
+        },
+        "skills": {
+            "technical": "UAV Programming, Swarm Intelligence, Artificial Intelligence, Embedded Systems",
+            "strategic": "Strategic Management, Operational Efficiency, Cross-Cultural Collaboration",
+            "languages": "English, Dutch, Spanish (Fluent)"
+        }
+    },
+    "ContactPage": {
+        "title": "Let's Optimize.",
+        "subtitle": "Based in Europe, working globally. I am available for freelance consulting, technical writing, and automation projects.",
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "interest": "I am interested in...",
+            "options": {
+                "automation": "Business Automation",
+                "uavs": "UAVs / R&D"
+            },
+            "submit": "Send Message"
+        },
+        "email": "wubben.jamie@outlook.com",
+        "note": "I speak English, Dutch, and Spanish."
+    }
+}
