@@ -1,4 +1,10 @@
 {
+    "Navigation": {
+        "services": "Servicios",
+        "projects": "Proyectos",
+        "about": "Sobre Mí",
+        "contact": "Contacto"
+    },
     "HomePage": {
         "hero": {
             "title": "Ingeniería de Precisión para Empresas e Investigación.",

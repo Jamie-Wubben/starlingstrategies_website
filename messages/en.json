@@ -1,4 +1,10 @@
 {
+    "Navigation": {
+        "services": "Services",
+        "projects": "Projects",
+        "about": "About",
+        "contact": "Contact"
+    },
     "HomePage": {
         "hero": {
             "title": "Precision Engineering for Business & Research.",

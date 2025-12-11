@@ -1,4 +1,10 @@
 {
+    "Navigation": {
+        "services": "Diensten",
+        "projects": "Projecten",
+        "about": "Over",
+        "contact": "Contact"
+    },
     "HomePage": {
         "hero": {
             "title": "Precisie-engineering voor Bedrijven & Onderzoek.",
